@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mis Lugares</string>
+    <string name="Arrancar">Mostrar Lugares</string>
+    <string name="Configurar">Preferencias</string>
+    <string name="Acercade">Acerca de </string>
+    <string name="Salir">Salir</string>
+    <string name="tituloAplicacion">Mis lugares</string>
+    <string name="action_settings">Configuración</string>
+</resources>
